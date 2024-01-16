@@ -1,0 +1,6 @@
+Improve the present Dockerfile by applying good practice principles.
+This Dockerfile should be edited regarding security concerns, image build time and efficiency.
+Hints:
+- there is no need to install certain packages if the right base image is chosen
+- which user should run in the container?
+- should all files be copied into the image?
